@@ -1,0 +1,3 @@
+"L:\Program Files\bin\cmake.exe" -E rm -f CMakeFiles\prod.dir/objects.a
+C:\ProgramData\chocolatey\lib\mingw\tools\install\mingw64\bin\ar.exe qc CMakeFiles\prod.dir/objects.a @CMakeFiles\prod.dir\objects1.rsp
+C:\ProgramData\chocolatey\lib\mingw\tools\install\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\prod.dir/objects.a -Wl,--no-whole-archive -o prod.exe -Wl,--out-implib,libprod.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\prod.dir\linkLibs.rsp

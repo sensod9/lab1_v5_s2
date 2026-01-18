@@ -1,0 +1,3 @@
+L:/SCR/_BFU_OP/lab1_v5_s2/out/build/GCC 12.2.0 x86_64-w64-mingw32/CMakeFiles/prod.dir
+L:/SCR/_BFU_OP/lab1_v5_s2/out/build/GCC 12.2.0 x86_64-w64-mingw32/CMakeFiles/edit_cache.dir
+L:/SCR/_BFU_OP/lab1_v5_s2/out/build/GCC 12.2.0 x86_64-w64-mingw32/CMakeFiles/rebuild_cache.dir
