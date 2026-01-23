@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -Wl,--dependency-file=CMakeFiles/lol1.dir/link.d CMakeFiles/lol1.dir/Product.cpp.o CMakeFiles/lol1.dir/main.cpp.o -o lol1

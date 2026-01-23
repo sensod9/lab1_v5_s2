@@ -1,0 +1,3 @@
+/home/arch/scr/_C++/lab1_v5_s2/out/build/GCC 15.2.1 x86_64-pc-linux-gnu/CMakeFiles/lol1.dir
+/home/arch/scr/_C++/lab1_v5_s2/out/build/GCC 15.2.1 x86_64-pc-linux-gnu/CMakeFiles/edit_cache.dir
+/home/arch/scr/_C++/lab1_v5_s2/out/build/GCC 15.2.1 x86_64-pc-linux-gnu/CMakeFiles/rebuild_cache.dir
